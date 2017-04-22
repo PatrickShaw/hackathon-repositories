@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-HackathonRepositories
-=======
-# Repositories-Hackathons
->>>>>>> 8495084de5e3aa49141589fba32f5d4d5d15e918
+# Hackathon repositories
+A collection of repositories relating to all publically available hackathon competition code that I have contributed to.
