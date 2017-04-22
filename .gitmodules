@@ -1,0 +1,30 @@
+[submodule "Hackamon2016-Reallocate-Web"]
+	path = Hackamon2016-Reallocate-Web
+	url = https://github.com/PatrickShaw/Hackamon2016-Reallocate-Web.git
+[submodule "SpotlessGHack-Intellibins-Web"]
+	path = SpotlessGHack-Intellibins-Web
+	url = https://github.com/PatrickShaw/SpotlessGHack-Intellibins-Web.git
+[submodule "SpotlessGHack-Intellibins-Android"]
+	path = SpotlessGHack-Intellibins-Android
+	url = https://github.com/PatrickShaw/SpotlessGHack-Intellibins-Android.git
+[submodule "SpotlessGHack-Intellibins-API"]
+	path = SpotlessGHack-Intellibins-API
+	url = https://github.com/PatrickShaw/SpotlessGHack-Intellibins-API.git
+[submodule "Hackamon2016-ReAllocate-API"]
+	path = Hackamon2016-ReAllocate-API
+	url = https://github.com/PatrickShaw/Hackamon2016-ReAllocate-API.git
+[submodule "TheIDEATOR2016-VRA"]
+	path = TheIDEATOR2016-VRA
+	url = https://github.com/PatrickShaw/TheIDEATOR2016-VRA.git
+[submodule "Lecturefy_HackaMon"]
+	path = Lecturefy_HackaMon
+	url = https://github.com/callistusystan/Lecturefy_HackaMon.git
+[submodule "Hackamon2017-Lecturefy-API"]
+	path = Hackamon2017-Lecturefy-API
+	url = https://github.com/PatrickShaw/Hackamon2017-Lecturefy-API.git
+[submodule "UnearthedHackathon-DeterminationParser"]
+	path = UnearthedHackathon-DeterminationParser
+	url = https://github.com/PatrickShaw/UnearthedHackathon-DeterminationParser.git
+[submodule "unearthed-monash"]
+	path = unearthed-monash
+	url = https://github.com/darvid7/unearthed-monash.git
