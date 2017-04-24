@@ -11,7 +11,7 @@ A collection of repositories relating to all publicly available hackathon compet
 
 ### [Monash University Hackamon 2016](http://www.monash.edu/students/hackamon/hackamon2016) Team: Pineapples Under the Sea
 ### [Monash University Hackamon 2017](http://www.monash.edu/students/hackamon) Team: Pineapple Bae
-<img src="res/images/hackamon2016.png" width="200">
+<img src="res/images/hackamon.png" width="200">
 
 ### [The IDEATOR](https://www.eventbrite.com.au/e/the-ideator-tickets-24798744713#) Team: VRA
-<img src="res/images/the-ideator.png" width="200">
+<img src="res/images/the-ideator.jpg" width="200">
