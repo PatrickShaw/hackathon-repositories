@@ -22,9 +22,6 @@
 [submodule "Hackamon2017-Lecturefy-API"]
 	path = Hackamon2017-Lecturefy-API
 	url = https://github.com/PatrickShaw/Hackamon2017-Lecturefy-API.git
-[submodule "UnearthedHackathon-DeterminationParser"]
-	path = UnearthedHackathon-DeterminationParser
-	url = https://github.com/PatrickShaw/UnearthedHackathon-DeterminationParser.git
 [submodule "unearthed-monash"]
 	path = unearthed-monash
 	url = https://github.com/darvid7/unearthed-monash.git
